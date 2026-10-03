@@ -1,0 +1,20 @@
+title: "[Bootcamp Name] -- Tracks & Challenges"
+description: "Content, resources, and competition challenges for every bootcamp track."
+remote_theme: just-the-docs/just-the-docs
+
+search_enabled: true
+color_scheme: light
+
+aux_links:
+  "Repo on GitHub":
+    - "https://github.com/<org>/<repo>"
+
+# Keep contributor-only / behind-the-scenes docs out of the published site.
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - TECHNICAL_LEAD_GUIDE.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

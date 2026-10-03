@@ -1,0 +1,14 @@
+# Track ownership -- each Technical Lead is the Code Owner of their track.
+# Replace these placeholder usernames with the real GitHub usernames.
+# Whoever is listed here is auto-requested for review on any PR that
+# touches that track's folder.
+
+/tracks/software-development/   @tl-software-development
+/tracks/web3-blockchain/   @tl-web3-blockchain
+/tracks/iot-robotics/   @tl-iot-robotics
+/tracks/ml-data-science/   @tl-ml-data-science
+/tracks/cybersecurity/   @tl-cybersecurity
+
+# Organizer-owned shared files -- require your own review on these too.
+/general-rules.md   @your-github-username
+/_config.yml        @your-github-username

@@ -1,0 +1,15 @@
+# Maps each track to the GitHub usernames allowed to edit it.
+# Consumed by .github/workflows/path-guard.yml -- replace the placeholder
+# usernames with real ones. Add more than one username per track if a
+# track has co-leads.
+
+software-development:
+  - tl-software-development
+web3-blockchain:
+  - tl-web3-blockchain
+iot-robotics:
+  - tl-iot-robotics
+ml-data-science:
+  - tl-ml-data-science
+cybersecurity:
+  - tl-cybersecurity

@@ -1,6 +1,6 @@
-# [Bootcamp Name] — Tracks Repo
+# Zetech Forge: Alumni x Student Bootcamp — Tracks Repo
 
-Source repo for the [Bootcamp Name] competition site, published via GitHub
+Source repo for the Zetech Forge: Alumni x Student Bootcamp competition site, published via GitHub
 Pages at: `https://<org>.github.io/<repo>/` (update this link once Pages is
 enabled in Settings).
 
